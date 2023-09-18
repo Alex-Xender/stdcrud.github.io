@@ -39,7 +39,7 @@ if (isset($_POST['back_button'])) {
 		<table class="table table-bordered table-striped table-hover" id="myTable">
 		<thead>
 			<tr>
-			   <th class="text-center" scope="col">S.L</th>
+			   <th class="text-center" scope="col">ID Serial</th>
 				<th class="text-center" scope="col">Name</th>
 				<th class="text-center" scope="col">Student R</th>
 				<th class="text-center" scope="col">Mobile</th>
